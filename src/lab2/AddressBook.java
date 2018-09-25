@@ -27,5 +27,10 @@ public class AddressBook {
 		System.out.print("Change");
 
 	}
+	
+	public void shiny()
+	{
+		System.out.println("test");
+	}
 
 }
