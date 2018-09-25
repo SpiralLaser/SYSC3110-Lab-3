@@ -12,6 +12,12 @@ public class BuddyInfo {
 		
 	}
 	
+	public BuddyInfo(String a, String b)
+	{
+		setName(a);
+		setAddress(b);
+	}
+	
 	public String getName() {
 		return name;
 	}
